@@ -91,6 +91,7 @@ def query_fleet(session, login_id, mds, fleet):
             'radiobutton': '0',
         }
         res = session.post(f'{BASE_URL}/GetDataService.aspx?method=report&mds={mds}&showZeroMil=true', data=data)
+        res.encoding = 'utf-8'
         result = res.json()
         
         if 'records' in result:
@@ -118,6 +119,7 @@ def query_fleet(session, login_id, mds, fleet):
         'radiobutton': '0',
     }
     res = session.post(f'{BASE_URL}/GetDataService.aspx?method=report&mds={mds}&showZeroMil=true', data=data)
+    res.encoding = 'utf-8'
     result = res.json()
     if 'records' in result:
         for record in result['records']:
@@ -135,6 +137,7 @@ def query_fleet(session, login_id, mds, fleet):
         'radiobutton': '0',
     }
     res = session.post(f'{BASE_URL}/GetDataService.aspx?method=report&mds={mds}&showZeroMil=true', data=data)
+    res.encoding = 'utf-8'
     result = res.json()
     if 'records' in result:
         for record in result['records']:

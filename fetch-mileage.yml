@@ -1,0 +1,33 @@
+name: 抓取18GPS里程数据
+
+on:
+  schedule:
+    # 每天早上8点运行（UTC时间0点，对应北京时间8点）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  fetch-mileage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行抓取脚本
+        run: python fetch-mileage.py
+
+      - name: 提交数据
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add mileage-data.json
+          git commit -m "更新里程数据 $(date +'%Y-%m-%d %H:%M')" || echo "没有变化"
+          git push

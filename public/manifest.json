@@ -1,0 +1,17 @@
+{
+  "name": "扎兰屯热电厂车辆管理系统",
+  "short_name": "车辆管理",
+  "description": "扎兰屯热电厂车辆管理系统V1.0",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#18181b",
+  "icons": [
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

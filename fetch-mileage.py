@@ -17,8 +17,10 @@ FLEETS = [
     {'id': 'a015f8e0-804e-4619-a9bc-c8a961fcd6eb', 'name': '扎兰屯热力'},
 ]
 
-USERNAME = '13474947494'
-PASSWORD = '123456'
+import os
+
+USERNAME = os.environ.get('GPS_USERNAME', '')
+PASSWORD = os.environ.get('GPS_PASSWORD', '')
 
 
 def login(session):

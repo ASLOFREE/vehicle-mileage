@@ -4,29 +4,29 @@
     {
       "vehicleName": "二号铲车临工",
       "fleetName": "阿荣旗热力",
-      "yearMil": 128.42,
+      "yearMil": 128.54999999999998,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
-      "monthMil": 0.81
+      "monthMil": 0.94
     },
     {
       "vehicleName": "蒙E961K0",
       "fleetName": "阿荣旗热力",
-      "yearMil": 2872.0200000000004,
+      "yearMil": 2954.4900000000002,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 47.63,
-      "monthMil": 193.88
+      "todayMil": 32.86,
+      "monthMil": 343.91
     },
     {
       "vehicleName": "蒙ED8756",
       "fleetName": "阿荣旗热力",
-      "yearMil": 2374.42,
+      "yearMil": 2497.97,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 29.73,
-      "monthMil": 85.19
+      "todayMil": 33.21,
+      "monthMil": 264.81
     },
     {
       "vehicleName": "蒙EH3963",
@@ -40,29 +40,29 @@
     {
       "vehicleName": "三号铲车柳工",
       "fleetName": "阿荣旗热力",
-      "yearMil": 285.73999999999995,
+      "yearMil": 251.57,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 3.22,
-      "monthMil": 36.15
+      "todayMil": 0.19,
+      "monthMil": 39.93
     },
     {
       "vehicleName": "稽查班蒙EB6630",
       "fleetName": "莫旗热力",
-      "yearMil": 910.77,
+      "yearMil": 903.64,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 0.0,
-      "monthMil": 0.0
+      "todayMil": 21.07,
+      "monthMil": 21.07
     },
     {
       "vehicleName": "蒙EAF511",
       "fleetName": "莫旗热力",
-      "yearMil": 1107.77,
+      "yearMil": 1128.66,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 0.0,
-      "monthMil": 0.0
+      "todayMil": 14.0,
+      "monthMil": 20.89
     },
     {
       "vehicleName": "莫旗二厂铲车",
@@ -76,7 +76,7 @@
     {
       "vehicleName": "莫旗三厂铲车",
       "fleetName": "莫旗热力",
-      "yearMil": 438.21000000000004,
+      "yearMil": 267.91999999999996,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
@@ -85,70 +85,70 @@
     {
       "vehicleName": "热网二组蒙EBA534",
       "fleetName": "莫旗热力",
-      "yearMil": 3294.96,
+      "yearMil": 3378.51,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 18.89,
-      "monthMil": 232.27
+      "todayMil": 43.21,
+      "monthMil": 476.53
     },
     {
       "vehicleName": "热网三组蒙ED7465",
       "fleetName": "莫旗热力",
-      "yearMil": 3859.3099999999995,
+      "yearMil": 3799.7599999999998,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 26.51,
-      "monthMil": 194.41
+      "todayMil": 57.12,
+      "monthMil": 357.33
     },
     {
       "vehicleName": "热网一组蒙E8494R",
       "fleetName": "莫旗热力",
-      "yearMil": 2755.75,
+      "yearMil": 2823.14,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 36.54,
-      "monthMil": 168.26
+      "todayMil": 17.97,
+      "monthMil": 308.0
     },
     {
       "vehicleName": "营销部蒙E566J3",
       "fleetName": "莫旗热力",
-      "yearMil": 3840.33,
+      "yearMil": 3849.4300000000003,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 16.04,
-      "monthMil": 79.0
+      "todayMil": 24.26,
+      "monthMil": 174.13
     },
     {
       "vehicleName": "运维部蒙E0668C",
       "fleetName": "莫旗热力",
-      "yearMil": 3035.6299999999997,
+      "yearMil": 3054.2799999999997,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 21.62,
-      "monthMil": 58.78
+      "todayMil": 42.24,
+      "monthMil": 145.87
     },
     {
       "vehicleName": "运维部蒙EMP628",
       "fleetName": "莫旗热力",
-      "yearMil": 5989.049999999999,
+      "yearMil": 5980.119999999999,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 17.51,
-      "monthMil": 96.4
+      "todayMil": 10.92,
+      "monthMil": 119.33
     },
     {
       "vehicleName": "运维电检班蒙E7577V",
       "fleetName": "莫旗热力",
-      "yearMil": 3941.4500000000003,
+      "yearMil": 4010.13,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 18.43,
-      "monthMil": 130.46
+      "todayMil": 60.66,
+      "monthMil": 272.97
     },
     {
       "vehicleName": "综合部蒙E8122T",
       "fleetName": "莫旗热力",
-      "yearMil": 9342.93,
+      "yearMil": 9143.970000000001,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
@@ -157,7 +157,7 @@
     {
       "vehicleName": "综合部蒙EU1128",
       "fleetName": "莫旗热力",
-      "yearMil": 623.3100000000001,
+      "yearMil": 487.56,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
@@ -166,7 +166,7 @@
     {
       "vehicleName": "蒙E063H7",
       "fleetName": "扎兰屯热力",
-      "yearMil": 11355.249999999998,
+      "yearMil": 11245.88,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
@@ -175,70 +175,70 @@
     {
       "vehicleName": "蒙E16599",
       "fleetName": "扎兰屯热力",
-      "yearMil": 5616.37,
+      "yearMil": 5624.03,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 0.0,
-      "monthMil": 0.0
+      "todayMil": 7.66,
+      "monthMil": 7.66
     },
     {
       "vehicleName": "蒙E65745",
       "fleetName": "扎兰屯热力",
-      "yearMil": 492.39,
+      "yearMil": 582.5,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 12.52,
-      "monthMil": 68.03
+      "todayMil": 14.74,
+      "monthMil": 158.14
     },
     {
       "vehicleName": "蒙EF07977",
       "fleetName": "扎兰屯热力",
-      "yearMil": 3958.7,
+      "yearMil": 3960.52,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 0.0,
-      "monthMil": 0.0
+      "todayMil": 1.82,
+      "monthMil": 1.82
     },
     {
       "vehicleName": "蒙EJ8609",
       "fleetName": "扎兰屯热力",
-      "yearMil": 1965.0100000000002,
+      "yearMil": 2006.9400000000003,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 16.82,
-      "monthMil": 86.73
+      "todayMil": 16.45,
+      "monthMil": 147.91
     },
     {
       "vehicleName": "蒙EMX361",
       "fleetName": "扎兰屯热力",
-      "yearMil": 3774.2799999999997,
+      "yearMil": 3704.0800000000004,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 33.69,
-      "monthMil": 90.2
+      "todayMil": 20.67,
+      "monthMil": 199.93
     },
     {
       "vehicleName": "蒙EZR979",
       "fleetName": "扎兰屯热力",
-      "yearMil": 2316.85,
+      "yearMil": 2369.2000000000003,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 18.61,
-      "monthMil": 94.04
+      "todayMil": 18.21,
+      "monthMil": 191.98
     },
     {
       "vehicleName": "扎热检修部叉车",
       "fleetName": "扎兰屯热力",
-      "yearMil": 147.17,
+      "yearMil": 147.9,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
-      "monthMil": 0.0
+      "monthMil": 0.81
     },
     {
       "vehicleName": "扎热燃料运行1号装载机",
       "fleetName": "扎兰屯热力",
-      "yearMil": 64.45,
+      "yearMil": 25.24,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
@@ -247,11 +247,11 @@
     {
       "vehicleName": "扎热燃料运行2号装载机",
       "fleetName": "扎兰屯热力",
-      "yearMil": 20.82,
+      "yearMil": 31.03,
       "chaoSuCounts": 0,
       "stopCount": 0,
-      "todayMil": 0.0,
-      "monthMil": 0.39
+      "todayMil": 3.38,
+      "monthMil": 13.23
     },
     {
       "vehicleName": "扎热燃料运行灰罐车",
@@ -265,12 +265,12 @@
     {
       "vehicleName": "扎热燃料运行推土机",
       "fleetName": "扎兰屯热力",
-      "yearMil": 7.379999999999999,
+      "yearMil": 6.829999999999999,
       "chaoSuCounts": 0,
       "stopCount": 0,
       "todayMil": 0.0,
-      "monthMil": 0.31
+      "monthMil": 1.14
     }
   ],
-  "fetchedAt": "2026-10-04T17:22:14.381784"
+  "fetchedAt": "2026-10-08T19:16:51.011356"
 }
